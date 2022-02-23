@@ -1,2 +1,21 @@
-# certificados-dio
-Nesse repositório contém alguns dos meus certificados.
+# Certificados :man_student:
+Olá, seja bem vindo. :blush:
+
+Nesse repositório ao longo do tempo colocarei alguns dos meus certificados.
+
+
+
+- Git e Github
+
+- Metodologia Ágil SCRUM.
+
+- Logica de Programação.
+
+- Bootcamp
+
+  
+
+
+
+
+
